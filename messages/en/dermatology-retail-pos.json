@@ -1,0 +1,21 @@
+{
+  "invalidPrice": "Price must be a positive number or empty",
+  "sellPriceLabel": "Retail Sell Price",
+  "sellPricePlaceholder": "Leave empty if not for sale",
+  "sellPriceHint": "Set a price to make this item sellable to patients from an invoice.",
+  "sellPriceColumn": "Sell Price",
+  "notForSale": "Not for sale",
+  "sellProductButton": "Sell Product",
+  "saleSuccess": "Sale recorded successfully",
+  "saleError": "Error recording sale",
+  "inStock": "{qty} {unit} in stock",
+  "saleDialog": {
+    "title": "Sell Product",
+    "description": "Pick a patient and products — a new invoice is generated automatically and stock is deducted.",
+    "patient": "Patient",
+    "products": "Products",
+    "noProducts": "No products have a sell price set",
+    "total": "Total",
+    "confirm": "Complete Sale"
+  }
+}

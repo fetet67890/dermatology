@@ -1,0 +1,21 @@
+{
+  "invalidPrice": "Çmimi duhet të jetë numër pozitiv ose bosh",
+  "sellPriceLabel": "Çmimi i Shitjes (retail)",
+  "sellPricePlaceholder": "Lëreni bosh nëse nuk shitet",
+  "sellPriceHint": "Vendosni një çmim që artikulli të mund të shitet te pacientët nga fatura.",
+  "sellPriceColumn": "Çmimi i Shitjes",
+  "notForSale": "Nuk shitet",
+  "sellProductButton": "Shes Produkt",
+  "saleSuccess": "Shitja u regjistrua me sukses",
+  "saleError": "Gabim gjatë regjistrimit të shitjes",
+  "inStock": "{qty} {unit} në stok",
+  "saleDialog": {
+    "title": "Shes Produkt",
+    "description": "Zgjidhni pacientin dhe produktet — një faturë e re gjenerohet automatikisht dhe stoku zbritet.",
+    "patient": "Pacienti",
+    "products": "Produktet",
+    "noProducts": "Nuk ka produkte me çmim shitjeje të vendosur",
+    "total": "Totali",
+    "confirm": "Përfundo Shitjen"
+  }
+}

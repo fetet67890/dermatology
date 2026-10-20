@@ -1,0 +1,16 @@
+{
+  "title": "Konfigurimi i Seancave të Trajtimit",
+  "addStage": "+ Shto Seancë",
+  "description": "Përcaktoni listën e seancave që shfaqen si opsione kur regjistrohet progresi i një kursi trajtimi shumë-seancash (p.sh. lazer, peeling, PRP).",
+  "loading": "Duke u ngarkuar...",
+  "empty": "Nuk ka ende asnjë seancë të konfiguruar.",
+  "edit": "Ndrysho",
+  "delete": "Fshi",
+  "editStageTitle": "Ndrysho Seancën",
+  "addStageTitle": "Shto Seancë të Re",
+  "stageName": "Emri i Seancës",
+  "stageNamePlaceholder": "p.sh. Seanca 2 nga 6",
+  "cancel": "Anulo",
+  "saving": "Duke ruajtur...",
+  "save": "Ruaj"
+}

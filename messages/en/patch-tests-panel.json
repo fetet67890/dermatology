@@ -1,0 +1,33 @@
+{
+  "loadError": "Error loading tests",
+  "heading": "Allergy Patch Tests",
+  "addTest": "Add Test",
+  "noTests": "No tests recorded",
+  "appliedLine": "Applied {date} by {doctor}",
+  "result48hLabel": "48h Reading",
+  "result96hLabel": "96h Reading",
+  "notRecorded": "No reading",
+  "result": {
+    "negativ": "Negative",
+    "i_dyshimte": "Doubtful",
+    "pozitiv_dobet": "Weak Positive",
+    "pozitiv_forte": "Strong Positive",
+    "ekstrem": "Extreme",
+    "iritant": "Irritant"
+  },
+  "updateError": "Error updating",
+  "createSuccess": "Test recorded successfully",
+  "createError": "Error recording test",
+  "cancel": "Cancel",
+  "saving": "Saving...",
+  "newDialog": {
+    "title": "New Patch Test",
+    "substanceLabel": "Substance",
+    "substancePlaceholder": "E.g. Nickel, Fragrance mix",
+    "doctorLabel": "Doctor",
+    "doctorPlaceholder": "Select doctor",
+    "appliedDateLabel": "Applied Date",
+    "notesLabel": "Notes",
+    "confirm": "Record"
+  }
+}

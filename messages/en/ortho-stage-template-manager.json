@@ -1,0 +1,16 @@
+{
+  "title": "Treatment Session Configuration",
+  "addStage": "+ Add Session",
+  "description": "Define the list of sessions that appear as options when recording progress on a multi-session treatment course (e.g. laser, peel, PRP).",
+  "loading": "Loading...",
+  "empty": "No sessions configured yet.",
+  "edit": "Edit",
+  "delete": "Delete",
+  "editStageTitle": "Edit Session",
+  "addStageTitle": "Add New Session",
+  "stageName": "Session Name",
+  "stageNamePlaceholder": "e.g. Session 2 of 6",
+  "cancel": "Cancel",
+  "saving": "Saving...",
+  "save": "Save"
+}

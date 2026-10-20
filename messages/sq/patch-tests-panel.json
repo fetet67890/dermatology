@@ -1,0 +1,33 @@
+{
+  "loadError": "Gabim gjatë ngarkimit të testeve",
+  "heading": "Testet e Alergjisë",
+  "addTest": "Shto Test",
+  "noTests": "Nuk ka teste të regjistruara",
+  "appliedLine": "Aplikuar më {date} nga {doctor}",
+  "result48hLabel": "Leximi 48h",
+  "result96hLabel": "Leximi 96h",
+  "notRecorded": "Pa lexim",
+  "result": {
+    "negativ": "Negativ",
+    "i_dyshimte": "I Dyshimtë",
+    "pozitiv_dobet": "Pozitiv i Dobët",
+    "pozitiv_forte": "Pozitiv i Fortë",
+    "ekstrem": "Ekstrem",
+    "iritant": "Irritant"
+  },
+  "updateError": "Gabim gjatë përditësimit",
+  "createSuccess": "Testi u regjistrua me sukses",
+  "createError": "Gabim gjatë regjistrimit të testit",
+  "cancel": "Anulo",
+  "saving": "Duke ruajtur...",
+  "newDialog": {
+    "title": "Test i Ri Alergjie",
+    "substanceLabel": "Substanca",
+    "substancePlaceholder": "P.sh. Nikeli, Parfum-mix",
+    "doctorLabel": "Mjeku",
+    "doctorPlaceholder": "Zgjidhni mjekun",
+    "appliedDateLabel": "Data e Aplikimit",
+    "notesLabel": "Shënime",
+    "confirm": "Regjistro"
+  }
+}

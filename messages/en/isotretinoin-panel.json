@@ -1,0 +1,70 @@
+{
+  "loading": "Loading...",
+  "loadError": "Error loading",
+  "heading": "Isotretinoin",
+  "startCycle": "Start Cycle",
+  "noCycles": "No cycles recorded",
+  "cycleLine": "Started {date} by {doctor}",
+  "targetEnd": "Target end date: {date}",
+  "status": {
+    "aktiv": "Active",
+    "perfunduar": "Completed",
+    "ndaluar": "Stopped"
+  },
+  "pregnancyTests": "Pregnancy Tests",
+  "addTest": "Add Test",
+  "noneRecorded": "None recorded",
+  "pregnancyResult": {
+    "negativ": "Negative",
+    "pozitiv": "Positive"
+  },
+  "labs": "Liver-Function Labs",
+  "addLab": "Add Lab",
+  "normal": "Normal",
+  "abnormal": "Abnormal",
+  "dispenses": "Dispenses",
+  "addDispense": "Add Dispense",
+  "supplyDays": "{days}-day supply",
+  "cancel": "Cancel",
+  "saving": "Saving...",
+  "confirm": "Confirm",
+  "cycleCreateSuccess": "Cycle created successfully",
+  "cycleCreateError": "Error creating cycle",
+  "updateError": "Error updating",
+  "pregnancyTestAddSuccess": "Test recorded successfully",
+  "pregnancyTestAddError": "Error recording test",
+  "labAddSuccess": "Lab recorded successfully",
+  "labAddError": "Error recording lab",
+  "dispenseAddSuccess": "Dispense recorded successfully",
+  "dispenseAddError": "Error recording dispense",
+  "newCycleDialog": {
+    "title": "New Isotretinoin Cycle",
+    "doctorLabel": "Doctor",
+    "doctorPlaceholder": "Select doctor",
+    "startDateLabel": "Start Date",
+    "targetEndDateLabel": "Target End Date",
+    "notesLabel": "Notes",
+    "confirm": "Start Cycle"
+  },
+  "pregnancyDialog": {
+    "title": "Pregnancy Test",
+    "dateLabel": "Test Date",
+    "resultLabel": "Result"
+  },
+  "labDialog": {
+    "title": "Liver-Function Lab",
+    "dateLabel": "Test Date",
+    "typeLabel": "Test Type",
+    "typePlaceholder": "E.g. ALT/AST, Lipids",
+    "summaryLabel": "Result Summary",
+    "summaryPlaceholder": "Optional",
+    "isNormalLabel": "Status"
+  },
+  "dispenseDialog": {
+    "title": "New Dispense",
+    "hint": "Requires a negative pregnancy test within the last 30 days.",
+    "dateLabel": "Dispensed Date",
+    "supplyDaysLabel": "Supply Days",
+    "notesLabel": "Notes"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "categoryLabels": {
+    "general": "I Përgjithshëm",
+    "id_card": "ID",
+    "insurance_card": "Sigurim",
+    "clinical_photo": "Foto Klinike"
+  },
+  "imageSubtypeLabels": {
+    "klinike": "Foto Klinike",
+    "dermoskopi": "Dermoskopi",
+    "para": "Para",
+    "pas": "Pas",
+    "tjeter": "Tjetër"
+  },
+  "empty": "Nuk ka dokumente te ngarkuara",
+  "uploadDocument": "Ngarko Dokument",
+  "documentCountOne": "{count} dokument",
+  "documentCountOther": "{count} dokumente",
+  "add": "Shto",
+  "imageCountOne": "{count} imazh",
+  "imageCountOther": "{count} imazhe",
+  "fileType": {
+    "image": "Imazh",
+    "pdf": "PDF"
+  },
+  "actions": {
+    "view": "Shiko",
+    "download": "Shkarko",
+    "delete": "Fshi",
+    "close": "Mbyll",
+    "deleteImage": "Fshi Imazhin",
+    "openPdf": "Hap PDF-në"
+  },
+  "gallery": {
+    "previousImage": "Imazhi i mëparshëm",
+    "nextImage": "Imazhi tjetër"
+  }
+}

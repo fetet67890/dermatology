@@ -1,0 +1,61 @@
+{
+  "loading": "Duke ngarkuar...",
+  "loadError": "Gabim gjatë ngarkimit të lezioneve",
+  "heading": "Lezionet e Lëkurës",
+  "view": {
+    "perpara": "Përpara",
+    "pas": "Pas"
+  },
+  "cancelPlacing": "Anulo Vendosjen",
+  "placeOnMap": "Vendos në Hartë",
+  "addWithoutLocation": "Shto pa Vendndodhje",
+  "placingHint": "Klikoni në hartën e trupit për të vendosur lezionin.",
+  "noLesions": "Nuk ka lezione të regjistruara",
+  "status": {
+    "aktiv": "Aktiv",
+    "zgjidhur": "Zgjidhur",
+    "hequr": "Hequr"
+  },
+  "trend": {
+    "worsening": "Po Përkeqësohet"
+  },
+  "firstNotedLine": "Vënë re së pari më {date}",
+  "latestSizeLine": "{size}mm",
+  "measurementSizeLabel": "{size}mm",
+  "cancel": "Anulo",
+  "saving": "Duke ruajtur...",
+  "createSuccess": "Lezioni u regjistrua me sukses",
+  "createError": "Gabim gjatë regjistrimit",
+  "statusUpdated": "Statusi u përditësua",
+  "updateError": "Gabim gjatë përditësimit",
+  "measurementAdded": "Matja u regjistrua me sukses",
+  "deleteSuccess": "Lezioni u fshi me sukses",
+  "deleteError": "Gabim gjatë fshirjes",
+  "abcd": {
+    "asymmetry": "Asimetri",
+    "border": "Kufi i Parregullt",
+    "color": "Ngjyrë e Ndryshueshme"
+  },
+  "newDialog": {
+    "title": "Lezion i Ri",
+    "locationPinned": "Vendndodhja u shënua në hartën e trupit",
+    "locationLabel": "Vendndodhja",
+    "locationPlaceholder": "P.sh. Krahu i majtë, shpina e sipërme",
+    "doctorLabel": "Mjeku",
+    "doctorPlaceholder": "Zgjidhni mjekun",
+    "firstNotedLabel": "Vënë Re Së Pari Më",
+    "notesLabel": "Shënime",
+    "confirm": "Regjistro"
+  },
+  "detail": {
+    "statusLabel": "Statusi:",
+    "measurementsHeading": "Matjet",
+    "noMeasurements": "Nuk ka matje të regjistruara",
+    "addMeasurementHeading": "Shto Matje",
+    "sizeLabel": "Përmasa (mm)",
+    "colorLabel": "Ngjyra",
+    "measurementNotesPlaceholder": "Shënime (opsionale)",
+    "addMeasurementButton": "Shto Matjen",
+    "deleteLesion": "Fshi Lezionin"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "categoryLabels": {
+    "general": "General Document",
+    "id_card": "ID Document",
+    "insurance_card": "Insurance Card",
+    "clinical_photo": "Clinical Photo"
+  },
+  "imageSubtypeLabels": {
+    "klinike": "Clinical Photo",
+    "dermoskopi": "Dermoscopy",
+    "para": "Before",
+    "pas": "After",
+    "tjeter": "Other"
+  },
+  "uploadFailedRetry": "Upload failed. Please try again.",
+  "dialogTitle": "Upload Document",
+  "dialogDescription": "Upload documents for {patientName}",
+  "documentType": "Document Type",
+  "xrayType": "Photo Type",
+  "dropzone": {
+    "dropImages": "Drag and drop images here",
+    "dropDocument": "Drag and drop the document here",
+    "clickToSelectMultiple": "or click to select (you can select several at once)",
+    "clickToSelect": "or click to select",
+    "formatsXray": "Formats: JPG, PNG, WEBP (max 10MB each)",
+    "formatsDefault": "Formats: JPG, PNG, WEBP, PDF (max 10MB each)"
+  },
+  "addMoreImages": "Add More Images",
+  "uploading": "Uploading...",
+  "successImages": "Images uploaded successfully!",
+  "successDocument": "Document uploaded successfully!",
+  "uploadFailed": "Upload failed",
+  "tryAgain": "Try again",
+  "uploadCount": "Upload {count} Images",
+  "uploadDocumentButton": "Upload Document"
+}

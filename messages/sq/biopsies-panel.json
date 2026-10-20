@@ -1,0 +1,35 @@
+{
+  "loading": "Duke ngarkuar...",
+  "loadError": "Gabim gjatë ngarkimit të biopsive",
+  "heading": "Biopsitë",
+  "addBiopsy": "Shto Biopsi",
+  "noBiopsies": "Nuk ka biopsi të regjistruara",
+  "sentLine": "Dërguar më {date} nga {doctor}",
+  "status": {
+    "ne_pritje": "Në Pritje"
+  },
+  "resultLabel": "Rezultati:",
+  "notRecorded": "Pa rezultat",
+  "result": {
+    "beninj": "Beninj",
+    "atipik": "Atipik",
+    "malinj": "Malinj"
+  },
+  "updateError": "Gabim gjatë përditësimit",
+  "createSuccess": "Biopsia u regjistrua me sukses",
+  "createError": "Gabim gjatë regjistrimit të biopsisë",
+  "cancel": "Anulo",
+  "saving": "Duke ruajtur...",
+  "newDialog": {
+    "title": "Biopsi e Re",
+    "siteLabel": "Vendndodhja",
+    "sitePlaceholder": "P.sh. Krahu i djathtë, lezion #3",
+    "doctorLabel": "Mjeku",
+    "doctorPlaceholder": "Zgjidhni mjekun",
+    "sentDateLabel": "Data e Dërgimit",
+    "labNameLabel": "Laboratori",
+    "labNamePlaceholder": "Emri i laboratorit (opsionale)",
+    "notesLabel": "Shënime",
+    "confirm": "Regjistro"
+  }
+}

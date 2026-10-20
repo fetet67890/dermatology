@@ -1,0 +1,31 @@
+{
+  "loadError": "Error loading plans",
+  "loading": "Loading...",
+  "heading": "Cosmetic Plans",
+  "addPlan": "Add Plan",
+  "noPlans": "No plans recorded",
+  "status": {
+    "planifikuar": "Planned",
+    "ne_proces": "In Progress",
+    "perfunduar": "Completed"
+  },
+  "areaLine": "Area: {area}",
+  "createdLine": "Created {date} by {doctor}",
+  "updateError": "Error updating",
+  "createSuccess": "Plan recorded successfully",
+  "createError": "Error recording plan",
+  "cancel": "Cancel",
+  "saving": "Saving...",
+  "newDialog": {
+    "title": "New Cosmetic Plan",
+    "procedureLabel": "Procedure Type",
+    "procedurePlaceholder": "E.g. Botox Injections",
+    "areaLabel": "Body Area",
+    "areaPlaceholder": "E.g. Forehead, Lips",
+    "doctorLabel": "Doctor",
+    "doctorPlaceholder": "Select doctor",
+    "costLabel": "Cost (LEK)",
+    "notesLabel": "Notes",
+    "confirm": "Record"
+  }
+}

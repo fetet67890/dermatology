@@ -1,0 +1,53 @@
+{
+  "header": {
+    "title": "Add New Treatment",
+    "subtitle": "Record a new treatment"
+  },
+  "back": "Back",
+  "card": {
+    "title": "Treatment Details",
+    "description": "Fill in the treatment details"
+  },
+  "fields": {
+    "patient": "Patient",
+    "patientPlaceholder": "Select patient",
+    "date": "Date",
+    "catalogService": "Service from Catalog",
+    "catalogServicePlaceholder": "Select service (optional)",
+    "noCatalogService": "— No catalog service —",
+    "treatmentType": "Treatment Type",
+    "treatmentTypePlaceholder": "e.g. Chemical Peel",
+    "treatmentArea": "Treatment Area",
+    "treatmentAreaPlaceholder": "e.g. Right forearm, upper back",
+    "description": "Treatment Description",
+    "descriptionPlaceholder": "Describe the treatment performed...",
+    "cost": "Price (LEK)",
+    "status": "Status"
+  },
+  "status": {
+    "planifikuar": "Scheduled (treatment plan)",
+    "neProces": "In Progress",
+    "perfunduar": "Completed"
+  },
+  "soap": {
+    "toggleTitle": "SOAP Format",
+    "toggleSubtitle": "Structured notes: Subjective / Objective / Assessment / Plan",
+    "subjective": { "label": "S — Subjective", "placeholder": "What the patient says (symptoms, complaints)..." },
+    "objective": { "label": "O — Objective", "placeholder": "Clinical findings (examination, dermoscopy)..." },
+    "assessment": { "label": "A — Assessment", "placeholder": "Diagnosis / clinical assessment..." },
+    "plan": { "label": "P — Plan", "placeholder": "Further treatment plan..." }
+  },
+  "notes": {
+    "label": "Additional Notes",
+    "placeholder": "Other notes..."
+  },
+  "actions": {
+    "cancel": "Cancel",
+    "save": "Save Treatment"
+  },
+  "allergyDialog": {
+    "title": "Warning — Allergy on Record",
+    "cancel": "Cancel",
+    "proceed": "Proceed Anyway"
+  }
+}

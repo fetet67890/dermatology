@@ -1,0 +1,30 @@
+{
+  "loading": "Loading...",
+  "loadError": "Error loading regimens",
+  "heading": "Skincare Regimens",
+  "addRegimen": "Add Regimen",
+  "noRegimens": "No regimens recorded",
+  "prescribedLine": "Prescribed {date} by {doctor}",
+  "reviewLine": "review {date}",
+  "adherenceLabel": "Adherence:",
+  "notRecorded": "Not recorded",
+  "adherence": {
+    "e_mire": "Good",
+    "e_pjesshme": "Partial",
+    "e_dobet": "Poor"
+  },
+  "cancel": "Cancel",
+  "saving": "Saving...",
+  "confirm": "Record",
+  "createSuccess": "Regimen recorded successfully",
+  "createError": "Error recording",
+  "updateError": "Error updating",
+  "newDialog": {
+    "title": "New Skincare Regimen",
+    "descriptionLabel": "Regimen Description",
+    "descriptionPlaceholder": "E.g. Gentle cleanser AM/PM, retinol nightly, SPF 50 every morning",
+    "prescribedDateLabel": "Prescribed Date",
+    "reviewDateLabel": "Review Date",
+    "notesLabel": "Notes"
+  }
+}

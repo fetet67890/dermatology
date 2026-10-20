@@ -1,0 +1,70 @@
+{
+  "loading": "Duke ngarkuar...",
+  "loadError": "Gabim gjatë ngarkimit",
+  "heading": "Izotretinoinë",
+  "startCycle": "Fillo Cikël",
+  "noCycles": "Nuk ka cikle të regjistruara",
+  "cycleLine": "Filluar më {date} nga {doctor}",
+  "targetEnd": "Data e synuar e përfundimit: {date}",
+  "status": {
+    "aktiv": "Aktiv",
+    "perfunduar": "Përfunduar",
+    "ndaluar": "Ndaluar"
+  },
+  "pregnancyTests": "Testet e Shtatzënisë",
+  "addTest": "Shto Test",
+  "noneRecorded": "Asnjë i regjistruar",
+  "pregnancyResult": {
+    "negativ": "Negativ",
+    "pozitiv": "Pozitiv"
+  },
+  "labs": "Analizat e Mëlçisë",
+  "addLab": "Shto Analizë",
+  "normal": "Normale",
+  "abnormal": "Jashtë Normales",
+  "dispenses": "Dispensimet",
+  "addDispense": "Shto Dispensim",
+  "supplyDays": "{days} ditë furnizim",
+  "cancel": "Anulo",
+  "saving": "Duke ruajtur...",
+  "confirm": "Konfirmo",
+  "cycleCreateSuccess": "Cikli u krijua me sukses",
+  "cycleCreateError": "Gabim gjatë krijimit të ciklit",
+  "updateError": "Gabim gjatë përditësimit",
+  "pregnancyTestAddSuccess": "Testi u regjistrua me sukses",
+  "pregnancyTestAddError": "Gabim gjatë regjistrimit të testit",
+  "labAddSuccess": "Analiza u regjistrua me sukses",
+  "labAddError": "Gabim gjatë regjistrimit të analizës",
+  "dispenseAddSuccess": "Dispensimi u regjistrua me sukses",
+  "dispenseAddError": "Gabim gjatë regjistrimit të dispensimit",
+  "newCycleDialog": {
+    "title": "Cikël i Ri Izotretinoine",
+    "doctorLabel": "Mjeku",
+    "doctorPlaceholder": "Zgjidhni mjekun",
+    "startDateLabel": "Data e Fillimit",
+    "targetEndDateLabel": "Data e Synuar e Përfundimit",
+    "notesLabel": "Shënime",
+    "confirm": "Fillo Ciklin"
+  },
+  "pregnancyDialog": {
+    "title": "Test Shtatzënie",
+    "dateLabel": "Data e Testit",
+    "resultLabel": "Rezultati"
+  },
+  "labDialog": {
+    "title": "Analizë e Mëlçisë",
+    "dateLabel": "Data e Testit",
+    "typeLabel": "Lloji i Analizës",
+    "typePlaceholder": "P.sh. ALT/AST, Lipidet",
+    "summaryLabel": "Përmbledhja e Rezultatit",
+    "summaryPlaceholder": "Opsionale",
+    "isNormalLabel": "Statusi"
+  },
+  "dispenseDialog": {
+    "title": "Dispensim i Ri",
+    "hint": "Kërkohet një test negativ shtatzënie brenda 30 ditëve të fundit.",
+    "dateLabel": "Data e Dispensimit",
+    "supplyDaysLabel": "Ditë Furnizimi",
+    "notesLabel": "Shënime"
+  }
+}

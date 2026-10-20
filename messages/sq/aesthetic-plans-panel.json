@@ -1,0 +1,31 @@
+{
+  "loadError": "Gabim gjatë ngarkimit të planeve",
+  "loading": "Duke ngarkuar...",
+  "heading": "Planet Kozmetike",
+  "addPlan": "Shto Plan",
+  "noPlans": "Nuk ka plane të regjistruara",
+  "status": {
+    "planifikuar": "Planifikuar",
+    "ne_proces": "Në Proces",
+    "perfunduar": "Përfunduar"
+  },
+  "areaLine": "Zona: {area}",
+  "createdLine": "Krijuar më {date} nga {doctor}",
+  "updateError": "Gabim gjatë përditësimit",
+  "createSuccess": "Plani u regjistrua me sukses",
+  "createError": "Gabim gjatë regjistrimit të planit",
+  "cancel": "Anulo",
+  "saving": "Duke ruajtur...",
+  "newDialog": {
+    "title": "Plan i Ri Kozmetik",
+    "procedureLabel": "Lloji i Procedurës",
+    "procedurePlaceholder": "P.sh. Injeksione Botox",
+    "areaLabel": "Zona e Trupit",
+    "areaPlaceholder": "P.sh. Balli, Buzët",
+    "doctorLabel": "Mjeku",
+    "doctorPlaceholder": "Zgjidhni mjekun",
+    "costLabel": "Kostoja (LEK)",
+    "notesLabel": "Shënime",
+    "confirm": "Regjistro"
+  }
+}

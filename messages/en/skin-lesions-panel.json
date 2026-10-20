@@ -1,0 +1,61 @@
+{
+  "loading": "Loading...",
+  "loadError": "Error loading lesions",
+  "heading": "Skin Lesions",
+  "view": {
+    "perpara": "Front",
+    "pas": "Back"
+  },
+  "cancelPlacing": "Cancel Placing",
+  "placeOnMap": "Place on Map",
+  "addWithoutLocation": "Add Without Location",
+  "placingHint": "Click on the body map to place the lesion.",
+  "noLesions": "No lesions recorded",
+  "status": {
+    "aktiv": "Active",
+    "zgjidhur": "Resolved",
+    "hequr": "Removed"
+  },
+  "trend": {
+    "worsening": "Worsening"
+  },
+  "firstNotedLine": "First noted {date}",
+  "latestSizeLine": "{size}mm",
+  "measurementSizeLabel": "{size}mm",
+  "cancel": "Cancel",
+  "saving": "Saving...",
+  "createSuccess": "Lesion recorded successfully",
+  "createError": "Error recording lesion",
+  "statusUpdated": "Status updated",
+  "updateError": "Error updating",
+  "measurementAdded": "Measurement recorded successfully",
+  "deleteSuccess": "Lesion deleted successfully",
+  "deleteError": "Error deleting",
+  "abcd": {
+    "asymmetry": "Asymmetry",
+    "border": "Irregular Border",
+    "color": "Color Variation"
+  },
+  "newDialog": {
+    "title": "New Lesion",
+    "locationPinned": "Location marked on the body map",
+    "locationLabel": "Location",
+    "locationPlaceholder": "E.g. Left forearm, upper back",
+    "doctorLabel": "Doctor",
+    "doctorPlaceholder": "Select doctor",
+    "firstNotedLabel": "First Noted",
+    "notesLabel": "Notes",
+    "confirm": "Record"
+  },
+  "detail": {
+    "statusLabel": "Status:",
+    "measurementsHeading": "Measurements",
+    "noMeasurements": "No measurements recorded",
+    "addMeasurementHeading": "Add Measurement",
+    "sizeLabel": "Size (mm)",
+    "colorLabel": "Color",
+    "measurementNotesPlaceholder": "Notes (optional)",
+    "addMeasurementButton": "Add Measurement",
+    "deleteLesion": "Delete Lesion"
+  }
+}

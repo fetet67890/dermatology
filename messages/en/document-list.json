@@ -1,0 +1,38 @@
+{
+  "categoryLabels": {
+    "general": "General",
+    "id_card": "ID",
+    "insurance_card": "Insurance",
+    "clinical_photo": "Clinical Photo"
+  },
+  "imageSubtypeLabels": {
+    "klinike": "Clinical Photo",
+    "dermoskopi": "Dermoscopy",
+    "para": "Before",
+    "pas": "After",
+    "tjeter": "Other"
+  },
+  "empty": "No documents uploaded",
+  "uploadDocument": "Upload Document",
+  "documentCountOne": "{count} document",
+  "documentCountOther": "{count} documents",
+  "add": "Add",
+  "imageCountOne": "{count} image",
+  "imageCountOther": "{count} images",
+  "fileType": {
+    "image": "Image",
+    "pdf": "PDF"
+  },
+  "actions": {
+    "view": "View",
+    "download": "Download",
+    "delete": "Delete",
+    "close": "Close",
+    "deleteImage": "Delete Image",
+    "openPdf": "Open PDF"
+  },
+  "gallery": {
+    "previousImage": "Previous image",
+    "nextImage": "Next image"
+  }
+}

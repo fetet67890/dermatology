@@ -1,0 +1,35 @@
+{
+  "loading": "Loading...",
+  "loadError": "Error loading biopsies",
+  "heading": "Biopsies",
+  "addBiopsy": "Add Biopsy",
+  "noBiopsies": "No biopsies recorded",
+  "sentLine": "Sent {date} by {doctor}",
+  "status": {
+    "ne_pritje": "Pending"
+  },
+  "resultLabel": "Result:",
+  "notRecorded": "No result",
+  "result": {
+    "beninj": "Benign",
+    "atipik": "Atypical",
+    "malinj": "Malignant"
+  },
+  "updateError": "Error updating",
+  "createSuccess": "Biopsy recorded successfully",
+  "createError": "Error recording biopsy",
+  "cancel": "Cancel",
+  "saving": "Saving...",
+  "newDialog": {
+    "title": "New Biopsy",
+    "siteLabel": "Site",
+    "sitePlaceholder": "E.g. Right forearm, lesion #3",
+    "doctorLabel": "Doctor",
+    "doctorPlaceholder": "Select doctor",
+    "sentDateLabel": "Sent Date",
+    "labNameLabel": "Lab",
+    "labNamePlaceholder": "Lab name (optional)",
+    "notesLabel": "Notes",
+    "confirm": "Record"
+  }
+}

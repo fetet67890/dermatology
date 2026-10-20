@@ -1,0 +1,30 @@
+{
+  "loading": "Duke ngarkuar...",
+  "loadError": "Gabim gjatë ngarkimit të regjimeve",
+  "heading": "Regjimet e Kujdesit të Lëkurës",
+  "addRegimen": "Shto Regjim",
+  "noRegimens": "Nuk ka regjime të regjistruara",
+  "prescribedLine": "Rekomanduar më {date} nga {doctor}",
+  "reviewLine": "rishikimi më {date}",
+  "adherenceLabel": "Përputhshmëria:",
+  "notRecorded": "Pa regjistruar",
+  "adherence": {
+    "e_mire": "E Mirë",
+    "e_pjesshme": "E Pjesshme",
+    "e_dobet": "E Dobët"
+  },
+  "cancel": "Anulo",
+  "saving": "Duke ruajtur...",
+  "confirm": "Regjistro",
+  "createSuccess": "Regjimi u regjistrua me sukses",
+  "createError": "Gabim gjatë regjistrimit",
+  "updateError": "Gabim gjatë përditësimit",
+  "newDialog": {
+    "title": "Regjim i Ri Kujdesi",
+    "descriptionLabel": "Përshkrimi i Regjimit",
+    "descriptionPlaceholder": "P.sh. Pastrues i butë mëngjes/mbrëmje, retinol çdo natë, SPF 50 çdo mëngjes",
+    "prescribedDateLabel": "Data e Rekomandimit",
+    "reviewDateLabel": "Data e Rishikimit",
+    "notesLabel": "Shënime"
+  }
+}
